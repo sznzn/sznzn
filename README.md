@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, Je suis Xinxin</h1>
 <h3 align="center">Développeuse web junior en France</h3>
 
+- 🔭 Je travaille actuellement sur un projet Symfony dans une entreprise.
+- 🌱 Je suis également en train d'apprendre et de perfectionner mes techniques en Symfony.
 - 📫 Contactez-moi à **xinxin.liu@outlook.fr**
 
 
