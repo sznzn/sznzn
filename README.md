@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">Développeuse web en France</h3>
 
 - 🔭 Je travaille actuellement sur un projet Symfony dans une entreprise.
-- 🌱 Je suis également en train d'apprendre et de perfectionner mes techniques en Symfony.
+- 🌱 Je suis également en train d'apprendre et de perfectionner mes techniques en React.
 - 📫 Contactez-moi à **xinxin.liu@outlook.fr**
 
 
